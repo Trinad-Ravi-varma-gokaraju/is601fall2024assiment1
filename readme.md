@@ -1,6 +1,7 @@
 # homework one
  Hello Professor
 i have tryed all the commands.
+faced a lot of issue but checked the youtube and other sources to solve the issues.
 All this i have added in branch
 1.  ls <- List and variations (ls -a, ls -l)
 2.  pwd <- Present Working Directory
