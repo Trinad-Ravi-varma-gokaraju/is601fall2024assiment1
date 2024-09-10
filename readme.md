@@ -1,6 +1,6 @@
 # homework one
- Hello Professor
-i am currently testing mearge in branch
+ Hello Professor.
+i am currently testing mearge in branch.
 i have tryed all the commands.
 faced a lot of issue but checked the youtube and other sources to solve the issues.
 All this i have added in branch
