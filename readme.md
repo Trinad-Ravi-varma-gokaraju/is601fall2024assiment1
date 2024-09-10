@@ -1,5 +1,5 @@
 # homework one
- Hello Professor
+ Hello Professor i am currently testing mearge in branch
 i have tryed all the commands.
 All this i have added in branch
 1.  ls <- List and variations (ls -a, ls -l)
